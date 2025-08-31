@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+SYNTHETIC DATA GENERATION 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+this project demonstrates how CTGAN can be effectively applied in a lightweight setting to generate synthetic tabular data that maintains privacy without compromising data quality. By modeling complex relationships in mixed-type data, CTGAN serves as a powerful tool for data augmentation, algorithm testing, and safe data sharing. The approach is especially beneficial in domains like healthcare, where real data is limited or sensitive, and synthetic alternatives can provide a practical solution for machine learning and research applications.
